@@ -1,8 +1,15 @@
-// next.config.js
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  output: 'export',
-  reactStrictMode: true,
-}
+  images: {
+    remotePatterns: [
+      {
+        hostname: "portfolio-image-store.s3.ap-south-1.amazonaws.com",
+      },
+      {
+        hostname: "res.cloudinary.com",
+      },
+    ],
+  },
+};
 
-module.exports = nextConfig
+export default nextConfig;
