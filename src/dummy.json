@@ -1,0 +1,474 @@
+{
+  "about": {
+    "name": "Imam Budi Prakoso",
+    "title": "Frontend Developer",
+    "subTitle": "Fresh graduate in Information Systems with hands on experience in administration, frontend & backend developer and digital marketing",
+    "description": "Recent graduate with a Bachelor's degree in Information Systems from Universitas Mercu Buana Yogyakarta, specializing in web development, data management, and digital marketing. Hands on experience in data processing, system development, and administration through internships at PT. Solusi Dua Empat Tujuh and Politeknik Keuangan Negara STAN. Passionate about integrating technology solutions into business strategies with strong problem solving, analytical, and teamwork skills.",
+    "quote": "Profesional Summary",
+    "exp_year": "4",
+    "address": "Special Region of Yogyakarta, Indonesia",
+    "some_total": "90",
+    "phoneNumber": "+62 87749555565",
+    "contactEmail": "imambdprkss@gmail.com",
+    "avatar": {
+      "public_id": "portfolio3/1713995155677-122l5x.webp",
+      "url": "https://media.licdn.com/dms/image/v2/D5603AQHLy0P2s1szaA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1730976174779?e=2147483647&v=beta&t=YMTWdXwNcDdjlBs8RpwrPdhz5m2YeV8oiZTL_-kAZQA"
+    },
+    "alternateAvatars": [
+      {
+        "_id": "676e772d8a9e1d0a8b0647ca",
+        "public_id": "portfolio3/1713996156944-1hro1b.webp",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/portfolio3/1713996156944-1hro1b.webp"
+      }
+    ]
+  },
+  "usageMetrics": {
+    "visits": 0,
+    "downloads": 0
+  },
+  "_id": "65b3a22c01d900e96c4219ae",
+  "username": "portfolio3",
+  "email": "imambdprkss@gmail.com",
+  "role": "admin",
+  "timeline": [
+    {
+      "company_name": "CloudTech Innovations",
+      "summary": "Contributed to the development of a cloud-based SaaS platform for managing IT infrastructure.",
+      "sequence": 4,
+      "startDate": "2024-03-06T00:00:00.000Z",
+      "endDate": "2024-03-20T00:00:00.000Z",
+      "jobTitle": "Software Developer",
+      "jobLocation": "Austin, TX",
+      "bulletPoints": [
+        "Developed microservices using Node.js and deployed them using Docker containers.",
+        "\nImplemented user authentication and authorization using OAuth 2.0 and JWT tokens.",
+        "\nIntegrated with cloud providers such as AWS and Azure to manage infrastructure resources.",
+        "\nDesigned and implemented RESTful APIs for various platform features.",
+        "\nCollaborated with DevOps engineers to automate deployment and testing processes."
+      ],
+      "forEducation": false,
+      "enabled": false,
+      "_id": "65f1fe4e0556c3f887e9db22"
+    },
+    {
+      "company_name": "Vocational Internship Kemnaker RI Disnakertrans DIY at Solusi247",
+      "summary": "Created digital content, managed social media, and supported online campaigns.",
+      "sequence": 3,
+      "startDate": "2023-05-11T00:00:00.000Z",
+      "endDate": "2023-10-28T00:00:00.000Z",
+      "jobTitle": "Digital Marketing",
+      "jobLocation": " Cantel, Yogyakarta",
+      "bulletPoints": [
+        "Executed digital marketing strategies for retail businesse",
+        "Create News Content and Visual Design for Social Media.",
+        "Produced and edited technology themed videos as part of the company digital campaign.",
+        "Optimized social media and e-commerce platforms for customer engagement."
+      ],
+      "forEducation": false,
+      "enabled": true,
+      "_id": "65f1fe1e0556c3f887e9dab2"
+    },
+    {
+      "company_name": "Internship at PT. DUA EMPAT TUJUH (Solusi247)",
+      "summary": "Built and tested web applications fixed bugs and optimized UI/UX.",
+      "sequence": 2,
+      "startDate": "2023-03-13T00:00:00.000Z",
+      "endDate": "2023-05-22T00:00:00.000Z",
+      "jobTitle": " Frontend & Backend Developer",
+      "jobLocation": " Cantel, Yogyakarta",
+      "bulletPoints": [
+        "Developed web applications using Python, PHP, CSS, and HTML.",
+        "Designed responsive UI/UX components for optimal user experience.",
+        "Conducted website performance testing and debugging."
+      ],
+      "forEducation": false,
+      "enabled": true,
+      "_id": "65f1fdef0556c3f887e9da44"
+    },
+    {
+      "company_name": "Internship at Politeknik Keuangan Negara STAN",
+      "summary": "Handled filing, managed executive schedules, and coordinated administrative documents.\n",
+      "sequence": 1,
+      "icon": {
+        "public_id": "portfolio3/1710357917833-0mic4.png",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/portfolio3/1710357917833-0mic4.png"
+      },
+      "startDate": "2018-02-03T00:00:00.000Z",
+      "endDate": "2018-05-31T00:00:00.000Z",
+      "jobTitle": "Administrative Staff",
+      "jobLocation": "Bintaro, Tangerang Selatan",
+      "bulletPoints": [
+        "Correspondence and Filing Management.",
+        "Executive Activity Management.",
+        "Meeting Coordination and Management."
+      ],
+      "forEducation": false,
+      "enabled": true,
+      "_id": "65f1fd9e0556c3f887e9d9d8"
+    },
+    {
+      "company_name": "Universitas Mercu Buana Yogyakarta – Yogyakarta, Indonesia",
+      "summary": "Bachelor’s Degree in Information Systems ",
+      "sequence": 1,
+      "icon": {
+        "public_id": "1706289470834-siro83",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706289470834-siro83"
+      },
+      "startDate": "2020-09-09T00:00:00.000Z",
+      "endDate": "2024-08-08T00:00:00.000Z",
+      "jobTitle": "Education",
+      "bulletPoints": [
+        " GPA: 3.78/4.00",
+        " Related Courses: Data Science, Database Management System, Software Engineering, Human Computer Interaction (HCI), Web Application & Mobile Application Development, UI/UX, Information System Analysis and Design, Enterprise Resource Planning (ERP), Digital Marketing & E-Commerce, Cybersecurity & Information Security, Artificial Intelligence & Machine Learning, Internet of Things (IoT) & Emerging Technologies. "
+      ],
+      "forEducation": true,
+      "enabled": true,
+      "_id": "65b3e93feb20546ae6d46369"
+    }    
+  ],
+  "skills": [
+    {
+      "enabled": true,
+      "name": "FIGMA",
+      "sequence": 14,
+      "percentage": 95,
+      "image": {
+        "public_id": "1456286842731-r0xxy",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286842731-r0eyn",
+        "_id": "65b3defbb48589dfcae1665x"
+      },
+      "_id": "65b3defbb48589dfcae1665x"
+    },
+    {
+      "enabled": true,
+      "name": "Adobe Photoshop & Illustrator",
+      "sequence": 13,
+      "percentage": 95,
+      "image": {
+        "public_id": "1456286842731-r0xxy",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286842731-r0eyn",
+        "_id": "65b3defbb48589dfcae186dx"
+      },
+      "_id": "65b3defbb48589dfcae186dx"
+    },
+    {
+      "enabled": true,
+      "name": "CSS",
+      "sequence": 12,
+      "percentage": 95,
+      "image": {
+        "public_id": "1706286842731-r0eyn",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286842731-r0eyn",
+        "_id": "65b3defbb48589dfcae180de"
+      },
+      "_id": "65b3defbb48589dfcae180dd"
+    },
+    {
+      "enabled": true,
+      "name": "HTML",
+      "sequence": 11,
+      "percentage": 95,
+      "image": {
+        "public_id": "1706286821409-21cuqs",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286821409-21cuqs",
+        "_id": "65b3dee5b48589dfcae180a9"
+      },
+      "_id": "65b3dee5b48589dfcae180a8"
+    },
+    {
+      "enabled": true,
+      "name": "Javascript",
+      "sequence": 10,
+      "percentage": 95,
+      "image": {
+        "public_id": "1706286780392-39i48h",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286780392-39i48h",
+        "_id": "65b3debcb48589dfcae18076"
+      },
+      "_id": "65b3debcb48589dfcae18075"
+    },
+    {
+      "enabled": true,
+      "name": "Pyhton",
+      "sequence": 9,
+      "percentage": 80,
+      "image": {
+        "public_id": "1706286760237-gh4idq",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286760237-gh4idq",
+        "_id": "65b3dea8b48589dfcae18045"
+      },
+      "_id": "65b3dea8b48589dfcae18044"
+    },
+    {
+      "enabled": true,
+      "name": "SQL",
+      "sequence": 7,
+      "percentage": 90,
+      "image": {
+        "public_id": "1706286729467-rbblgb",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286729467-rbblgb",
+        "_id": "65b3de89b48589dfcae18016"
+      },
+      "_id": "65b3de89b48589dfcae18015"
+    },
+    {
+      "enabled": true,
+      "name": "Node.js",
+      "sequence": 6,
+      "percentage": 90,
+      "image": {
+        "public_id": "1706286682511-rgp96r",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286682511-rgp96r",
+        "_id": "65b3de5bb48589dfcae17fe9"
+      },
+      "_id": "65b3de5bb48589dfcae17fe8"
+    },
+    {
+      "enabled": true,
+      "name": "React",
+      "sequence": 5,
+      "percentage": 90,
+      "image": {
+        "public_id": "1706291833080-0loo09",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706291833080-0loo09",
+        "_id": "65b3f27aeb20546ae6d49e76"
+      },
+      "_id": "65b3de41b48589dfcae17fbd"
+    },
+    {
+      "enabled": true,
+      "name": "Django",
+      "sequence": 4,
+      "percentage": 99,
+      "image": {
+        "public_id": "1706286616701-2jka3q",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286616701-2jka3q",
+        "_id": "65b3de19b48589dfcae17f95"
+      },
+      "_id": "65b3de19b48589dfcae17f94"
+    },
+    {
+      "enabled": true,
+      "name": "Laravel",
+      "sequence": 2,
+      "percentage": 97,
+      "image": {
+        "public_id": "1706286273084-romle",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286273084-romle"
+      },
+      "_id": "65b3dcc1b48589dfcae17e4d"
+    },
+    {
+      "name": "SkicitLearn",
+      "sequence": 1,
+      "percentage": 98,
+      "image": {
+        "public_id": "1706286058630-v3ax0a",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286058630-v3ax0a"
+      },
+      "_id": "65b3dbeba5c8d2db7b6164bc",
+      "enabled": true
+    }
+  ],
+  "youtube": [
+  ],
+
+  "certifications": [
+  {
+    "_id": "cert-1",
+    "title": "Digital Marketing",
+    "sequence": 1,
+    "description": "",
+    "techStack": [ "Marketing"],
+    "image": {
+      "public_id": "cert-img-1",
+      "url": "img/sertifdgm.png"
+    },
+    "githuburl": "",
+    "liveurl": "",
+    "enabled": true
+  },
+  {
+    "_id": "cert-2",
+    "title": "Frontend & Backend Developer",
+    "sequence": 2,
+    "description": "",
+    "techStack": ["Developer"],
+    "image": {
+      "public_id": "cert-img-1",
+      "url": "img/dv.png"
+    },
+    "githuburl": "",
+    "liveurl": "",
+    "enabled": true
+  },
+  {
+    "_id": "cert-3",
+    "title": "Administrative Staff",
+    "sequence": 3,
+    "description": "",
+    "techStack": ["Administrative"],
+    "image": {
+      "public_id": "cert-img-1",
+      "url": "img/adm.png"
+    },
+    "githuburl": "",
+    "liveurl": "",
+    "enabled": true
+  }
+  ],
+  "projects": [
+    {
+      "liveurl": "#",
+      "githuburl": "#",
+      "title": "Portal Direduce",
+      "sequence": 14,
+      "image": {
+        "public_id": "1706285511679-xe7r9t",
+        "url": "img/PORTAL.png"
+      },
+      "description": "Project Direduce adalah sistem pengurangan risiko bencana yang mengintegrasikan data wilayah, cuaca, dan sosial untuk analisis dan prediksi berbasis AI, memberikan peringatan dini, serta mendukung pengambilan keputusan dan distribusi sumber daya secara cepat dan efisien. ",
+      "techStack": [" Project "],
+      "_id": "65b3d9c8d017f6b49c778ca7",
+      "enabled": true
+    },
+    
+    {
+      "liveurl": "#",
+      "githuburl": "#",
+      "title": "Disaster Management",
+      "sequence": 6,
+      "image": {
+        "public_id": "1706285347449-dniw0h",
+        "url": "img/Dmn.png"
+      },
+      "description": "Disaster Management adalah sistem berbasis aplikasi yang digunakan untuk mendukung penanganan bencana secara efisien. Sistem ini membantu mempercepat respons, memudahkan kolaborasi antar instansi, dan menyajikan informasi penting bagi masyarakat dan tim penyelamat.",
+      "techStack": [" Project "],
+      "_id": "65b3d923d017f6b49c778bc6",
+      "enabled": true
+    },
+    {
+      "liveurl": "",
+      "githuburl": "",
+      "title": "Digital Marketing",
+      "sequence": 5,
+      "image": {
+        "public_id": "1706285323287-nt3ya3",
+        "url": "img/ykdgmsl.png"
+      },
+      "description": "Tugas di divisi Digital Marketing adalah mengembangkan konten pemasaran produk digital, termasuk penulisan naskah, voice over, talent video, dan editing video sederhana. https://drive.google.com/drive/folders/1nWnRZKS7jskt9-SUkv67StwXDZPS3Ak9?usp=sharing ",
+      "techStack": ["Digital Marketing"],
+      "_id": "65b3d8fed017f6b49c778ba9",
+      "enabled": true
+    },
+    {
+      "liveurl": "#",
+      "githuburl": "#",
+      "title": "Development of a CMS Website for ShoesCare UndersoleYYK Store",
+      "sequence": 4,
+      "image": {
+        "public_id": "1706285901000-evtmng",
+        "url": "img/ud.png"
+      },
+      "description": "Website e-commerce yang menjual peralatan cuci dan reparasi sepatu, serta menyediakan video tutorial perawatan sepatu secara lengkap dan praktis. (https://undersoleyyk.com)",
+      "techStack": ["Project"],
+      "_id": "65b3d9e3d017f6b49c778ccc",
+      "enabled": true
+    },
+    {
+      "liveurl": "#",
+      "githuburl": "#",
+      "title": "CNN Framework Analysis for Pneumonia Classification on MRI",
+      "sequence": 3,
+      "image": {
+        "public_id": "1706285901001-voltrack",
+        "url": "img/ph.png"
+      },
+      "description": "Project ini mengevaluasi performa beberapa arsitektur CNN (VGG16, VGG19, Xception, InceptionResNetV2, dan Baseline CNN) dalam mendeteksi pneumonia. Hasil menunjukkan bahwa Baseline CNN memberikan akurasi tertinggi sebesar 94%. Dengan demikian, penelitian berhasil mengidentifikasi model paling efektif untuk membantu mempercepat diagnosis pneumonia.",
+      "techStack": ["Project"],
+      "_id": "65b3d9e4d017f6b49c778ccd",
+      "enabled": true
+    },
+    {
+      "liveurl": "#",
+      "githuburl": "#",
+      "title": "Prototype Heatmaps To Detect Minimarket Display Cases",
+      "sequence": 3,
+      "image": {
+        "public_id": "1706285599123-3heatmap",
+        "url": "img/ht.jpg"
+      },
+      "description": "Aplikasi prototype heatmap untuk mendeteksi estalase padamini market yang telah dibangun memiliki dampak positifdalam meningkatkan efisiensi operasional dan pengelolaan toko.",
+      "techStack": ["Project"],
+      "_id": "65fb5a91d017f6b49c779002",
+      "enabled": true
+    },
+    {
+      "liveurl": "#",
+      "githuburl": "#",
+      "title": "DSS for Determining The Best Cat Food Dry Product Using The VIKOR Method",
+      "sequence": 4,
+      "image": {
+        "public_id": "1706285609123-infografispajak",
+        "url": "img/spk.png"
+      },
+      "description": "Final Project / Thesis",
+      "techStack": ["Project"],
+      "_id": "65fb5a92d017f6b49c779003",
+      "enabled": true
+    }
+    
+  ],
+  "social_handles": [
+    {
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/imambds/",
+      "image": {
+        "public_id": "1708718250873-3038n7.webp",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1708718250873-3038n7.webp"
+      },
+      "enabled": true,
+      "_id": "65b3ea4feb20546ae6d4641d"
+    },
+    {
+      "platform": "LinkedIn",
+      "url": "https://linkedin.com/in/imambudiprakoso",
+      "image": {
+        "public_id": "1708718263294-2lfj67.webp",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1708718263294-2lfj67.webp"
+      },
+      "enabled": true,
+      "_id": "65b3e99beb20546ae6d463c2"
+    },
+    {
+      "enabled": true,
+      "platform": "Twitter",
+      "url": "https://x.com/idprasss",
+      "image": {
+        "public_id": "1708718328750-d4jsq.webp",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1708718328750-d4jsq.webp"
+      },
+      "_id": "65b3e47cb48589dfcae185bd"
+    },
+    {
+      "enabled": true,
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/imam.b.prakoso",
+      "image": {
+        "public_id": "1708718346601-xldm.webp",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1708718346601-xldm.webp"
+      },
+      "_id": "65b3e43cb48589dfcae1856c"
+    }
+  ],
+  "services": [
+    
+  ],
+  "testimonials": [
+    
+  ],
+  "createdAt": "2024-01-26T12:14:36.514Z",
+  "updatedAt": "2024-05-08T17:53:29.758Z",
+  "__v": 74,
+  "refreshToken": ""
+}
