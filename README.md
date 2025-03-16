@@ -1,6 +1,5 @@
 # Portfolio Project
-
-![Modern Portfolio Website](https://github.com/user-attachments/assets/4f82669c-9a5a-4761-a927-2f54f0f64169)
+![image](https://github.com/user-attachments/assets/03d49000-dd14-4c9c-bbd2-db00bf35d8b4)
 
 ## Overview
 
@@ -132,7 +131,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions or feedback, reach out through:
 
-- Email: tehseen.type@gmail.com
+- Email: imambdprkss@gmail.com
 - Twitter: [@tehseen_type](https://twitter.com/tehseen_type)
 - LinkedIn: [Mohd Tehseen](https://linkedin.com/in/tehseen.01)
 
