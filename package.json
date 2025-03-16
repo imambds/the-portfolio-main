@@ -2,10 +2,10 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
-  "scripts": {"scripts": {
+  "scripts": {
     "build": "your-build-script",
     "export": "your-export-script"
-  }
+    }
     "dev": "cross-env NODE_OPTIONS='--inspect' next dev",
     "build": "next build",
     "start": "next start",
