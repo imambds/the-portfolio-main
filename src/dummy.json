@@ -315,20 +315,6 @@
     "githuburl": "",
     "liveurl": "",
     "enabled": true
-  },
-    {
-    "_id": "cert-4",
-    "title": "Telkom Digistar ",
-    "sequence": 3,
-    "description": "",
-    "techStack": [""],
-    "image": {
-      "public_id": "cert-img-1",
-      "url": "img/tk.jpg"
-    },
-    "githuburl": "",
-    "liveurl": "",
-    "enabled": true
   }
   ],
   "projects": [
