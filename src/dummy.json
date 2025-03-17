@@ -153,7 +153,7 @@
     },
     {
       "enabled": true,
-      "name": "CSS",
+      "name": "Laravel",
       "sequence": 12,
       "percentage": 95,
       "image": {
@@ -249,7 +249,7 @@
     },
     {
       "enabled": true,
-      "name": "Laravel",
+      "name": "CSS",
       "sequence": 2,
       "percentage": 97,
       "image": {
@@ -290,10 +290,94 @@
   },
   {
     "_id": "cert-2",
-    "title": "Frontend & Backend Developer",
+    "title": "Telkom Digistar ",
     "sequence": 2,
     "description": "",
-    "techStack": ["Developer"],
+    "techStack": ["Project"],
+    "image": {
+      "public_id": "cert-img-1",
+      "url": "img/tk.jpeg"
+    },
+    "githuburl": "",
+    "liveurl": "",
+    "enabled": true
+  },
+  {
+    "_id": "cert-3",
+    "title": "UI/UX Figma",
+    "sequence": 3,
+    "description": "",
+    "techStack": ["Project"],
+    "image": {
+      "public_id": "cert-img-1",
+      "url": "img/uiux.png"
+    },
+    "githuburl": "",
+    "liveurl": "",
+    "enabled": true
+  },
+  {
+    "_id": "cert-4",
+    "title": "Sentiment Mining",
+    "sequence": 4,
+    "description": "",
+    "techStack": ["Project"],
+    "image": {
+      "public_id": "cert-img-1",
+      "url": "img/sl.png"
+    },
+    "githuburl": "",
+    "liveurl": "",
+    "enabled": true
+  },
+  {
+    "_id": "cert-5",
+    "title": "Responsive Design",
+    "sequence": 5,
+    "description": "",
+    "techStack": ["Project"],
+    "image": {
+      "public_id": "cert-img-1",
+      "url": "img/bl.png"
+    },
+    "githuburl": "",
+    "liveurl": "",
+    "enabled": true
+  },
+  {
+    "_id": "cert-6",
+    "title": "Full Stack Website Developer",
+    "sequence": 6,
+    "description": "",
+    "techStack": ["Project"],
+    "image": {
+      "public_id": "cert-img-1",
+      "url": "img/fs.png"
+    },
+    "githuburl": "",
+    "liveurl": "",
+    "enabled": true
+  },
+  {
+    "_id": "cert-7",
+    "title": "Artificial Intelligence",
+    "sequence": 6,
+    "description": "",
+    "techStack": ["Seminar"],
+    "image": {
+      "public_id": "cert-img-1",
+      "url": "img/we.png"
+    },
+    "githuburl": "",
+    "liveurl": "",
+    "enabled": true
+  },
+  {
+    "_id": "cert-8",
+    "title": "Frontend & Backend Developer Intership ",
+    "sequence": 7,
+    "description": "",
+    "techStack": ["Project"],
     "image": {
       "public_id": "cert-img-1",
       "url": "img/dv.png"
@@ -303,14 +387,98 @@
     "enabled": true
   },
   {
-    "_id": "cert-3",
+    "_id": "cert-9",
     "title": "Administrative Staff",
-    "sequence": 3,
+    "sequence": 7,
     "description": "",
     "techStack": ["Administrative"],
     "image": {
       "public_id": "cert-img-1",
       "url": "img/adm.png"
+    },
+    "githuburl": "",
+    "liveurl": "",
+    "enabled": true
+  },
+  {
+    "_id": "cert-10",
+    "title": "Database Programming with SQL",
+    "sequence": 7,
+    "description": "",
+    "techStack": ["Project"],
+    "image": {
+      "public_id": "cert-img-1",
+      "url": "img/1.png"
+    },
+    "githuburl": "",
+    "liveurl": "",
+    "enabled": true
+  },
+  {
+    "_id": "cert-11",
+    "title": "Database Design",
+    "sequence": 7,
+    "description": "",
+    "techStack": ["Project"],
+    "image": {
+      "public_id": "cert-img-1",
+      "url": "img/2.png"
+    },
+    "githuburl": "",
+    "liveurl": "",
+    "enabled": true
+  },
+  {
+    "_id": "cert-12",
+    "title": "React For Frontend Development",
+    "sequence": 7,
+    "description": "",
+    "techStack": ["Project"],
+    "image": {
+      "public_id": "cert-img-1",
+      "url": "img/rea.png"
+    },
+    "githuburl": "",
+    "liveurl": "",
+    "enabled": true
+  },
+  {
+    "_id": "cert-13",
+    "title": "Sass Course",
+    "sequence": 7,
+    "description": "",
+    "techStack": ["Project"],
+    "image": {
+      "public_id": "cert-img-1",
+      "url": "img/ss.png"
+    },
+    "githuburl": "",
+    "liveurl": "",
+    "enabled": true
+  },
+  {
+    "_id": "cert-14",
+    "title": "Web Development Course Node.js",
+    "sequence": 7,
+    "description": "",
+    "techStack": ["Project"],
+    "image": {
+      "public_id": "cert-img-1",
+      "url": "img/nd.png"
+    },
+    "githuburl": "",
+    "liveurl": "",
+    "enabled": true
+  },
+  {
+    "_id": "cert-15",
+    "title": "Responsive Web",
+    "sequence": 7,
+    "description": "",
+    "techStack": ["Project"],
+    "image": {
+      "public_id": "cert-img-1",
+      "url": "img/rwww.png"
     },
     "githuburl": "",
     "liveurl": "",
@@ -354,7 +522,7 @@
       "sequence": 5,
       "image": {
         "public_id": "1706285323287-nt3ya3",
-        "url": "img/ykdgmsl.png"
+        "url": "img/dc.png"
       },
       "description": "Tugas di divisi Digital Marketing adalah mengembangkan konten pemasaran produk digital, termasuk penulisan naskah, voice over, talent video, dan editing video sederhana. https://drive.google.com/drive/folders/1nWnRZKS7jskt9-SUkv67StwXDZPS3Ak9?usp=sharing ",
       "techStack": ["Digital Marketing"],
@@ -375,20 +543,22 @@
       "_id": "65b3d9e3d017f6b49c778ccc",
       "enabled": true
     },
+    
     {
       "liveurl": "#",
       "githuburl": "#",
-      "title": "CNN Framework Analysis for Pneumonia Classification on MRI",
-      "sequence": 3,
+      "title": "DSS for Determining The Best Cat Food Dry Product Using The VIKOR Method",
+      "sequence": 4,
       "image": {
-        "public_id": "1706285901001-voltrack",
-        "url": "img/ph.png"
+        "public_id": "1706285609123-infografispajak",
+        "url": "img/spk.png"
       },
-      "description": "Project ini mengevaluasi performa beberapa arsitektur CNN (VGG16, VGG19, Xception, InceptionResNetV2, dan Baseline CNN) dalam mendeteksi pneumonia. Hasil menunjukkan bahwa Baseline CNN memberikan akurasi tertinggi sebesar 94%. Dengan demikian, penelitian berhasil mengidentifikasi model paling efektif untuk membantu mempercepat diagnosis pneumonia.",
+      "description": "Final Project / Thesis",
       "techStack": ["Project"],
-      "_id": "65b3d9e4d017f6b49c778ccd",
+      "_id": "65fb5a92d017f6b49c779003",
       "enabled": true
     },
+    
     {
       "liveurl": "#",
       "githuburl": "#",
@@ -406,15 +576,15 @@
     {
       "liveurl": "#",
       "githuburl": "#",
-      "title": "DSS for Determining The Best Cat Food Dry Product Using The VIKOR Method",
-      "sequence": 4,
+      "title": "CNN Framework Analysis for Pneumonia Classification on MRI",
+      "sequence": 3,
       "image": {
-        "public_id": "1706285609123-infografispajak",
-        "url": "img/spk.png"
+        "public_id": "1706285901001-voltrack",
+        "url": "img/ph.png"
       },
-      "description": "Final Project / Thesis",
+      "description": "Proyek ini membandingkan arsitektur CNN (VGG16, VGG19, Xception, InceptionResNetV2, dan Baseline) untuk deteksi pneumonia. Baseline CNN meraih akurasi tertinggi 94%, menunjukkan efektivitasnya dalam mendukung diagnosis cepat.",
       "techStack": ["Project"],
-      "_id": "65fb5a92d017f6b49c779003",
+      "_id": "65b3d9e4d017f6b49c778ccd",
       "enabled": true
     }
     
