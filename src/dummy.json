@@ -129,7 +129,7 @@
   "skills": [
     {
       "enabled": true,
-      "name": "FIGMA",
+      "name": "Figma",
       "sequence": 14,
       "percentage": 95,
       "image": {
@@ -141,7 +141,7 @@
     },
     {
       "enabled": true,
-      "name": "Adobe Photoshop & Illustrator",
+      "name": "Vercel",
       "sequence": 13,
       "percentage": 95,
       "image": {
@@ -153,7 +153,7 @@
     },
     {
       "enabled": true,
-      "name": "Laravel",
+      "name": "Django",
       "sequence": 12,
       "percentage": 95,
       "image": {
@@ -165,7 +165,7 @@
     },
     {
       "enabled": true,
-      "name": "HTML",
+      "name": "Laravel",
       "sequence": 11,
       "percentage": 95,
       "image": {
@@ -177,7 +177,7 @@
     },
     {
       "enabled": true,
-      "name": "Javascript",
+      "name": "Typescript",
       "sequence": 10,
       "percentage": 95,
       "image": {
@@ -201,7 +201,7 @@
     },
     {
       "enabled": true,
-      "name": "SQL",
+      "name": "Next.js",
       "sequence": 7,
       "percentage": 90,
       "image": {
@@ -237,7 +237,7 @@
     },
     {
       "enabled": true,
-      "name": "Django",
+      "name": "Tailwind",
       "sequence": 4,
       "percentage": 99,
       "image": {
@@ -259,7 +259,7 @@
       "_id": "65b3dcc1b48589dfcae17e4d"
     },
     {
-      "name": "SkicitLearn",
+      "name": "SQL",
       "sequence": 1,
       "percentage": 98,
       "image": {
