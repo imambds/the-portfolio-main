@@ -132,9 +132,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For questions or feedback, reach out through:
 
 - Email: imambdprkss@gmail.com
-- Twitter: [@tehseen_type](https://twitter.com/tehseen_type)
-- LinkedIn: [Mohd Tehseen](https://linkedin.com/in/tehseen.01)
 
----
-
-Built with ❤️ by [Mohd Tehseen]
